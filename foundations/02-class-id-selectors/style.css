@@ -1,0 +1,20 @@
+/* style.css */
+.light-red {
+  background-color: rgb(205, 117, 117);
+  font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.cool {
+  font-size: 36px;
+}
+
+#important-blue {
+  color: rgb(0, 0, 255);
+  font-size: 36px;
+}
+
+#bold-lime {
+  background-color: rgb(0, 255, 0);
+  font-size: 24px;
+  font-weight: bold;
+}
